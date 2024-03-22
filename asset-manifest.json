@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/venkata-naga-sai-yemineni/static/css/main.bf538fe7.css",
+    "main.js": "/venkata-naga-sai-yemineni/static/js/main.a7cb771c.js",
+    "static/media/HeroImage.jpeg": "/venkata-naga-sai-yemineni/static/media/HeroImage.136ca00eb3ef4b57d6b1.jpeg",
+    "index.html": "/venkata-naga-sai-yemineni/index.html",
+    "main.bf538fe7.css.map": "/venkata-naga-sai-yemineni/static/css/main.bf538fe7.css.map",
+    "main.a7cb771c.js.map": "/venkata-naga-sai-yemineni/static/js/main.a7cb771c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.a7cb771c.js"
+  ]
+}
